@@ -1,0 +1,20 @@
+{
+  "project_info": {
+    "project_number": "708677493822",
+    "project_id": "battle-loop",
+    "storage_bucket": "battle-loop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708677493822:android:efa14981af32d06b025d6f",
+        "android_client_info": {
+          "package_name": "com.app.mahami"
+        }
+      },
+      "api_key": [{ "current_key": "AIzaSyCxkYBpw4IQ-2g4weXYPHtc26Q8jqKYKhw" }],
+      "services": {}
+    }
+  ],
+  "configuration_version": "1"
+}

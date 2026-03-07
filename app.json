@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "مهامي",
+    "slug": "mahami",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0F0E17"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0F0E17"
+      },
+      "package": "com.app.mahami",
+      "googleServicesFile": "./google-services.json"
+    },
+    "plugins": [
+      "@react-native-async-storage/async-storage"
+    ]
+  }
+}
